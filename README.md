@@ -4,4 +4,4 @@
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 
-<a href="https://joao121gf.github.io/html-css/desafios/d010/">Executar o primeiro mini-projeto</a>
+<a href="https://joao121gf.github.io/html-css/desafios/d010/" target="_blank">Executar o primeiro mini-projeto</a>
