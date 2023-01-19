@@ -64,7 +64,7 @@ header > p > a:hover {
 
 
 .fundo-joaninha {
-    background-image: url(pacote-d012/imagens/background001.jpg);
+    background-image: url(./pacote-d012/imagens/background001.jpg);
     font-size: 2.5vh;
     font-size: 2.5vw;
     padding-top: 80px;
@@ -93,7 +93,7 @@ header > p > a:hover {
 
 
 .fundo-livro {
-    background-image: url(pacote-d012/imagens/background002.jpg);
+    background-image: url(./pacote-d012/imagens/background002.jpg);
     font-size: 2.5vh;
     font-size: 2.5vw;
     padding-top: 80px;
