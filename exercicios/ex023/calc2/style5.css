@@ -1,0 +1,25 @@
+@charset "UTF-8"; 
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+table {
+    border-collapse: collapse;
+}
+th, td{
+    border: 2px solid black;
+    padding: 8px;
+    
+}
+
+
+td {
+    font-size: 18px;
+
+    
+}
