@@ -8,9 +8,14 @@
 </head>
 <body>
     <h1>Meu primeiro formulário</h1>
-    <form>
-       <p>Usuário: <input type="text" name="user" id="nome"></p>
-       <p>Senha: <input type="text" name="" id=""></p>
+    <form autocomplete="on" action="cadastro.py">
+
+        <!-- Criando formulário de Usuario com o label para inome -->
+       <p><label for="inome">Usuário:</label> <input type="text" name="user" id="inome"></p>
+       
+        <!-- Criando formulário de Senha com o label para isenha -->
+       <p><label for="isenha">Senha:</label> <input type="text" name="senha" id="isenha"></p>
+
        <p> <input type="submit" value="Registrar"></p>
     </form>
 </body>
